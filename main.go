@@ -47,7 +47,7 @@ const (
 	ES_URL      = "http://104.154.107.212:9200"
 	BUCKET_NAME = "post-images-521147"
 	PROJECT_ID  = "around-521147"
-	BT_INSTANCE = "around­post"
+	BT_INSTANCE = "around-post"
 )
 
 func main() {
